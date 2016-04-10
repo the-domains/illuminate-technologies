@@ -1,19 +1,4 @@
-name: Illuminate  Technologies
-favicon: null
-layout_spectrum: 0.7597753216978163
-typography_spectrum: 0.7164657551329583
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#3C493F'
@@ -23,6 +8,11 @@ color:
     - '#A2E3C4'
   brandStrength: 0.00412013940513134
   lightness: 0.4784317316953093
-  saturation: 0.9871563571505249
   rhythmicContrast: 0.4839699629228562
+  saturation: 0.9871563571505249
+cta: {}
+layout_spectrum: 0.91723
+name: Illuminate  Technologies
+opengraph: {}
 purpose: []
+typography_spectrum: 0.840372
