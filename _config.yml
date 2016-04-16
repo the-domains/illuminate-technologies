@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#8080C0'
-    - '#285890'
-    - '#7070A8'
-    - '#4098F8'
+    - '#F0E8E8'
+    - '#B82828'
     - '#000000'
-  brandStrength: 0.00412013940513134
-  lightness: 0.4784317316953093
-  rhythmicContrast: 0.4839699629228562
-  saturation: 0.9871563571505249
+    - '#B82028'
+    - '#E0A0A0'
+  brandStrength: 0.706926
+  lightness: 0.740709
+  rhythmicContrast: 0.827703
+  saturation: 0.987156
 cta: {}
-layout_spectrum: 0.91723
+layout_spectrum: 0.402872
 name: Illuminate  Technologies
 opengraph: {}
 purpose: []
-typography_spectrum: 0.840372
+typography_spectrum: 0.444257
